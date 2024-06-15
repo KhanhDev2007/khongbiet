@@ -1,0 +1,3 @@
+huyxingum8k: Method: BYPASS | Target https://www.speedtest.net/:443 | Time: 60 | Attack at: 09:25:32 21-08-2023
+
+huyxingum8k: Method: NUKED | Target https://garticphone.com/vi:443 | Time: 300 | Attack at: 09:18:20 21-08-2023

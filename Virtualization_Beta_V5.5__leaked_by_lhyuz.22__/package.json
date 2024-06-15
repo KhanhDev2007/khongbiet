@@ -1,0 +1,38 @@
+{
+  "dependencies": {
+    "@keyv/sqlite": "^3.6.4",
+    "axios": "^1.2.2",
+    "better-sqlite3": "^8.4.0",
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "cpu-stat": "^2.0.1",
+    "discord-giveaways": "^6.0.1",
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "google-tts-api": "^2.0.2",
+    "install": "^0.13.0",
+    "keyv": "^4.5.2",
+    "length": "^0.0.1",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "moment-timezone": "^0.5.43",
+    "mongodb": "^5.6.0",
+    "mongoose": "^6.8.3",
+    "npm": "^9.7.2",
+    "open": "^8.4.0",
+    "ping": "^0.4.4",
+    "puppeteer": "^19.5.2",
+    "quick.db": "^9.1.6"
+  },
+  "name": "huyxingum8k",
+  "version": "5.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Bot Discord DDoS",
+  "devDependencies": {}
+}
